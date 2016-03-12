@@ -1,0 +1,8 @@
+C:\Users\Ramineni.sindhuja\documents\visual studio 2010\Projects\Lakshya\Lakshya\bin\Debug\Lakshya.exe
+C:\Users\Ramineni.sindhuja\documents\visual studio 2010\Projects\Lakshya\Lakshya\bin\Debug\Lakshya.pdb
+C:\Users\Ramineni.sindhuja\documents\visual studio 2010\Projects\Lakshya\Lakshya\obj\x86\Debug\Lakshya.csprojResolveAssemblyReference.cache
+C:\Users\Ramineni.sindhuja\documents\visual studio 2010\Projects\Lakshya\Lakshya\obj\x86\Debug\Lakshya.Form1.resources
+C:\Users\Ramineni.sindhuja\documents\visual studio 2010\Projects\Lakshya\Lakshya\obj\x86\Debug\Lakshya.Properties.Resources.resources
+C:\Users\Ramineni.sindhuja\documents\visual studio 2010\Projects\Lakshya\Lakshya\obj\x86\Debug\Lakshya.csproj.GenerateResource.Cache
+C:\Users\Ramineni.sindhuja\documents\visual studio 2010\Projects\Lakshya\Lakshya\obj\x86\Debug\Lakshya.exe
+C:\Users\Ramineni.sindhuja\documents\visual studio 2010\Projects\Lakshya\Lakshya\obj\x86\Debug\Lakshya.pdb
